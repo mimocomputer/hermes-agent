@@ -201,6 +201,7 @@ hermes skills uninstall <skill-name>
 
 | Skill | Description |
 |-------|-------------|
+| [**accessible-visual-verification**](../user-guide/skills/optional/productivity/productivity-accessible-visual-verification.md) | Verify document page bounds for users who cannot see them. |
 | [**box**](../user-guide/skills/optional/productivity/productivity-box.md) | Box manages cloud files, sharing, search, and metadata. |
 | [**canvas**](../user-guide/skills/optional/productivity/productivity-canvas.md) | Fetch Canvas LMS courses and assignments via API token. |
 | [**decision-questionnaire**](../user-guide/skills/optional/productivity/productivity-decision-questionnaire.md) | Turn an unanswerable decision into a questionnaire doc. |
